@@ -1,0 +1,14 @@
+name: COVID_Food_Insecurity
+title: COVID_Food_Insecurity
+username:
+account: ipratnu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2550427
+bundleId: 5040523
+url: https://ipratnu.shinyapps.io/COVID_Food_Insecurity/
+when: 1631822342.09911
+lastSyncTime: 1631822342.09913
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data_prepped/Aggregate.csv|fonts/.DS_Store|fonts/Campton/bold.otf|fonts/Campton/light.otf

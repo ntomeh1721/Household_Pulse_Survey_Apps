@@ -1,0 +1,13 @@
+name: App3
+title: App3
+username:
+account: natalietomeh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2525641
+bundleId: 3560111
+url: https://natalietomeh.shinyapps.io/App3/
+when: 1598451115.47639
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: fonts/.DS_Store|fonts/Campton/bold.otf|fonts/Campton/light.otf

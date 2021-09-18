@@ -1,0 +1,14 @@
+name: Household_Pulse
+title: Household_Pulse
+username:
+account: ipratnu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2689125
+bundleId: 5040831
+url: https://ipratnu.shinyapps.io/Household_Pulse/
+when: 1631828781.6888
+lastSyncTime: 1631828781.68881
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: testing_food_insecurity_source.R|troubleshooting_housing.R
