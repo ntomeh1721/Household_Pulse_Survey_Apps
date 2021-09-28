@@ -8,7 +8,7 @@
 ## 
 ## 1. Set `num_weeks` below to the number of weeks of data (as 
 ##    according to HPS). 
-num_weeks <- 35
+num_weeks <- 36
 ## 2. Cntrl + A then Cntrl + Return to run all the code. This will take 10+ minutes. 
 ## 3. Check the console at the end to see if there was an error. 
 ## 
